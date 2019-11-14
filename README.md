@@ -29,6 +29,7 @@ STIX 2.0 describes these as objects and uses different terminology to describe t
 - [Neo4j Desktop](https://neo4j.com/product/#desktop)
 
 - Python 
+
 **Python Libraries**
 
 [STIX2.0](https://stix2.readthedocs.io/en/latest/)
